@@ -260,7 +260,7 @@ if(!isset($_SESSION['serveur'])){
         <div class="container inner">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; Copyright faoujifrix
+                    &copy; Copyright faouji 2018
                     <br/>
                 </div>
                 <div class="col-sm-6">

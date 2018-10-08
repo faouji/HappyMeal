@@ -67,10 +67,10 @@
             <div class="banner">
                 <h1 class="">Happy Meal</h1>
             </div>
-            <div class="subtitle"><h4>Thème du restaurant génial   <?php $day=date("l"); ?></h4></div>
+            <div class="subtitle"><h4>Bienvenue chez nous <?php $day=date("l"); ?></h4></div>
         </div>
         <div class="bottom text-center">
-            <a id="scrollDownArrow" href="#"><i class="fa fa-chevron-down"></i></a>
+            <a id="scrollDownArrow" href="#footer"><i class="fa fa-chevron-down"></i></a>
         </div>
     </div>
     <!-- /#header -->
@@ -123,7 +123,7 @@
 
                         <div class="row">
                 <div class="col-sm-3 col-md-3">
-                    <div class="menu-images "><img src="img/menu/salade.jpg" alt="Entree"></div>
+                    <div class="menu-images "><img src="img/menu/salade.jpg" alt="Entree" height="200px"></div>
                     <div class="menu-titles"><h1 class="">Entree</h1></div>
                     <div class="menu-items ">
                         <ul>
@@ -226,7 +226,7 @@
                             <p style="color : red ; font-size :35px; " >#OFFRE 40%</p>
 
                              <div class="clearfix"></div>
-                        </div>
+                    </div>
                         <!--price tag-->
                         <?php  if ($value4[3] <= 15) { ?>
                         <span class="hot-tag br-lblue"><?php echo $value4[3]."<br>";?></span>
@@ -234,8 +234,8 @@
                       <span class="hot-tag br-green"><?php echo $value4[3]."<br>";?></span>
                      <?php }?>
                         <div class="clearfix"></div>
-                    </div>
                 </div>
+            </div>
                
                 
                  <?php  }   }   ?>
@@ -840,8 +840,12 @@
         <section class="ss-style-top"></section>
         <div class="container inner">
             <div class="row">
+                <div class="bottom text-center">
+                   <h3>Haut de page</h3> 
+            <a id="scrollDownArrow" href="#"><i class="fa fa-chevron-down"></i></a>
+        </div>
                 <div class="col-sm-6">
-                    &copy; Copyright faoujifrix
+                    &copy; Copyright faouji 2018
                     <br/>
                 </div>
                 <div class="col-sm-6">
