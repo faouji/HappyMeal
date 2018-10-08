@@ -5,7 +5,7 @@
  
 ### Auteur : [FAOUJI Soukaina ] 
 
-## Description:
+## Description
 
  HappyMeal une application Web responsive pour la mise de commandes dans un restaurant. 
 
