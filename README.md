@@ -1,6 +1,5 @@
-[
 
-Application responsive HappyMeal Restaurant  based on Twitter Bootstrap 3
+[Application responsive HappyMeal Restaurant  based on Twitter Bootstrap 3
 #](https://github.com/faoujisoka/HappyMeal.git)
  
  
